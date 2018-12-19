@@ -1,0 +1,7 @@
+def reverseString(string):
+	for char in string:
+		return string[::-1]
+
+print(reverseString("Reverse this"))
+
+
